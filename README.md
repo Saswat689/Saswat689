@@ -10,13 +10,13 @@
 class Saswat:
   def __init__(self):
     pass;
-   def __code:
-    return  [Javascript, HTML, CSS, Python],
-   def __tools:
+   def __languages:
+    return  [English,Javascript, HTML, CSS, Python],
+   def __favourite_tools:
     [React, Redux, Node, TailwindCSS, Styled-Components, Swagger-UI]
-   def __architecture:
+   def __specialization:
     return ["api","testing","designing"]  
-   def __presentStatus:
+   def __currentStatus:
     return "I am working on my personal blog which is built on top of Node and React"
 }
 ```
