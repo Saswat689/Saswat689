@@ -1,6 +1,6 @@
 <h2> Hi, I'm Saswat 👋</h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Passionate Self Taught Programmer<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I am actively looking for jobs/learning environments where I can help people with my skills.
+<p><em>Passionate Self Taught Programmer<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 
@@ -15,9 +15,9 @@ class Saswat:
    def __favourite_tools:
     [React, Redux, Node, TailwindCSS, Styled-Components, Swagger-UI]
    def __specialization:
-    return ["api","testing","designing"]  
+    return ["api","testing","frontend"]  
    def __currentStatus:
-    return "I am working on my personal blog which is built on top of Node and React"
+    return "Working with multiple clients to bring visual impacts and working on complex backend solutions"
 }
 ```
 
